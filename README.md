@@ -1,4 +1,4 @@
-# Pewlett-Hackard Historical Employee Database Analysis
+# Historical Employee Database Analysis
 
 ## Project Overview
 This project involves creating a comprehensive database from historical employee CSV files for Pewlett Hackard, a fictional company. The main tasks include data modeling, data engineering, and extensive data analysis to understand employment trends from the 1980s and 1990s.
